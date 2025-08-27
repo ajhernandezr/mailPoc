@@ -11,7 +11,7 @@
     "json": true
   },
   "dependencies": {
-    "cypress": "^5.4.0",
+    "cypress": "^14.5.2",
     "mocha": "^5.0.0"
   },
   "scripts": {
